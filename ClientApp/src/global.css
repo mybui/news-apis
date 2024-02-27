@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.heading-h2 {
+  font-family: Cera PRO, Helvetica;
+  @apply font-bold;
+}
+
+.heading-h5 {
+  @apply text-[13px] tracking-normal leading-4 not-italic font-bold;
+  font-family: Open Sans, Helvetica;
+}
+
+.heading-h5-bold {
+  @apply heading-h5 font-bold;
+}
+
+.heading-h2-bold {
+  @apply font-bold;
+}
+
+.label-1-regular {
+  font-family: Open Sans, Helvetica;
+  @apply font-normal text-base; /* Adjust as needed */
+}
