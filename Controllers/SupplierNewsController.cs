@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using news_apis;
-namespace news_api.Controllers;
+namespace news_apis.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -18,10 +17,23 @@ public class SupplierNewsController : ControllerBase
     }
 
     [HttpGet]
-    public IEnumerable<NewsItem> Get(string supplierName, string? country, string? language, int pageNumber = 1)
+    public async Task<IActionResult> Get(string supplierName, string? country, string? language, int pageNumber = 1)
     {
-        List<NewsItem> newsItems = _newsService.CallAllApis(supplierName, country, language, pageNumber);
-        return newsItems;
-    }
+        try
+        {
+            List<NewsItem> newsItems = await _newsService.CallAllApis(supplierName, country, language, pageNumber);
+            return Ok(newsItems);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "Error while fetching supplier news.");
 
+            var response = new
+            {
+                error = ex.Message
+            };
+            return BadRequest(response);
+
+        }
+    }
 }

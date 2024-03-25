@@ -1,0 +1,405 @@
+SupplierId;Name;CIK
+1;Microsoft;789019
+2;Ernst & Young;315858
+3;UPS;1090727
+4;Deloitte;36660
+5;Adecco Group;1137348
+6;Fedex;1048911
+7;Deutsche Post;1143400
+8;Marsh McLennan;62709
+9;Hilton;1585689
+10;Dell;1571996
+11;KPMG;58221
+12;Gartner;749251
+13;PWC;777676
+14;Securitas;1077883
+15;American Express;4962
+16;Siemens;1156175
+17;SGS;1452866
+18;Amazon;1018724
+19;Mettler Toledo;1037646
+20;Johnson Controls;833444
+21;NO VALID NAME;
+22;IBM;51143
+23;Air Liquide;916451
+24;AON;315293
+25;Linde;1027915
+26;ABB Group;1091587
+27;Employee;
+28;SAP;1000184
+29;Bureau Veritas;1594570
+30;Edenred;1622613
+31;RS Group;1811866
+32;Ricoh;716777
+33;DSV;1340875
+34;Wurth;909472
+35;Open Text;1015365
+36;Ecolab;31462
+37;Marriott International;1048286
+38;Randstad;1575262
+39;Atlas Copco;4977
+40;Quadient;1134726
+41;Thermo Fisher Scientific;97745
+42;Veolia;1077041
+43;Manpowergroup;871763
+44;Illinois Tool Works;49826
+45;TÜV SÜD;
+46;Willis Towers Watson;1140536
+47;DB Schenker;
+48;Deutsche Telekom;897789
+49;Sodexo;1219497
+50;S&P Global;64040
+51;Honeywell International;773840
+52;Verizon;732712
+53;Franz Haniel & Cie;
+54;Canon;1001288
+55;Allianz;1050756
+56;Ingersoll Rand;1466258
+57;Robert Half;315213
+58;WPP;1122388
+59;Iron Mountain;1020569
+60;Rexel;1300524
+61;Eurofins Scientific;1149659
+62;Staples;791519
+63;Danaher Corporation;313616
+64;Kuehne + Nagel;865464
+65;Spirax-Sarco Engineering;77327
+66;Accenture;1467373
+67;BNP Paribas;313807
+68;Avantor;1769148
+69;AT&T;732717
+70;Pitney Bowes;788041
+71;Emerson Electric;32604
+72;Blomberg;
+73;Salesforce;1108524
+74;Lyreco;
+75;Alphabet;1652044
+76;Aramark;1584509
+77;Volkswagen;731124
+78;Wolters Kluwer;829224
+79;AXA;1214816
+80;CBRE Group;1138118
+81;Engie;1605408
+82;Manutan;1647734
+83;Vodafone;1517887
+84;Spectris;1347824
+85;Kion Group;1617406
+86;Assa Abloy;867368
+87;Avnet;8858
+88;Schneider;1130310
+89;Oracle;1341439
+90;Vinci;1727575
+91;Shell;78003
+92;CDW;1402057
+93;Relx;31235
+94;Cintas;723254
+95;Radisson Hospitality;315449
+96;ADP;8670
+97;Rentokil;1493748
+98;BASF;1024478
+99;Dachser;
+100;Brenntag;1338007
+101;Eaton;1551182
+102;Jungheinrich;1024703
+103;Toyota Industries;1058823
+104;Clean Harbors;82166
+105;Hays;1278772
+106;Rhenus Group;
+107;3M Company;66740
+108;Merck Group;1060827
+109;Xerox;108772
+110;Telefonica;41208
+111;Thyssenkrupp;744041
+112;Dun & Bradstreet;1115222
+113;Suez;1604489
+114;Lumen Technologies;78476
+115;Uline;80661
+116;W. W. Grainger;277135
+117;Sick;855295
+118;Stericycle;861878
+119;Bechtle;895155
+120;ISS;1571882
+121;Axel Springer;520142
+122;Kaeser Kompressoren;
+123;Mercedes-Benz Group;
+124;The Swiss Confederation;
+125;Societe Generale;843637
+126;Federal Republic of Germany;
+127;Informa;218965
+128;United Technologies;101829
+129;General Electric Company;40545
+130;Societe De Negoce Et De Participation;
+131;Festo;1085675
+132;Accor;1649844
+133;Insight Enterprises;912822
+134;Brady Corporation;788920
+135;Schindler;
+136;Keyence;896213
+137;Ametek;1037868
+138;La Poste;
+139;E.ON;1238396
+140;Brady;1100435
+141;Agility Logistics;
+142;Rubix;
+143;Compass;1527193
+144;Compagnie De Saint-Gobain;909832
+145;Fastenal;815556
+146;Systemax;945114
+147;Chubb;200406
+148;Hp;47217
+149;Smurfit Kappa;940861
+150;Remondis;
+151;Essentra;
+152;Nestlé;109618
+153;Mcmaster Carr Supply;66740
+154;Maersk;91446
+155;Wells Fargo;72971
+156;McKinsey & Company;4447
+157;Nippon Telegraph and Telephone (NTT);1002504
+158;Korn Ferry;54450
+159;Teamviewer;1540068
+160;Dover Corporation;29905
+161;Konica Minolta;1069406
+162;Stanley Black & Decker;93556
+163;Endress+Hauser;
+164;Dumont Mediengruppe;
+165;Dekra;
+166;Element Materials Technology;
+167;Konecranes;1391037
+
+
+168;Bosch;1143905
+169;Royal Mail;16530
+170;Nch;
+171;Robert Bosch;
+172;C.H. Robinson Worldwide;1043277
+173;TÜV Rheinland;
+174;Fuchs Petrolub;923066
+175;Capgemini;1307893
+176;Government Of The United States;
+177;Adobe;796343
+178;Hitachi;1376135
+179;Électricité de France;742350
+180;Rockwell Automation;1024478
+181;Republic Services;1060391
+182;KCF;
+183;Shi International;1047862
+184;Berkshire Hathaway Holding;1067983
+185;Sartorius;1639984
+186;Bayerische Motoren Werke;
+187;LSG;
+188;Crown Equipment;766704
+189;Sanofi;1121404
+190;Commonwealth Of Pennsylvania;
+191;AIG;5272
+192;Hewlett Packard Enterprise Company;1645590
+193;Alsco;
+194;SKF;901004
+195;Testo;
+196;State Of Arizona;
+197;Kelly Services;874015
+198;Orange;1125280
+199;Olympus;1331970
+200;ADT Security Services;
+201;Global Distributor;
+202;Feng Tay Enterprises;
+203;Fujifilm Toyama Chemical;
+204;Tkg Taekwang;
+205;Changshin;
+206;Human Vaccine;
+207;A R Life Sciences;
+208;Bactolac Pharmaceuticals Inc;
+209;Sodium Metal;
+210;Jia International;
+211;Eva Overseas International;
+212;Nestrade S A;
+213;Fortune Planet Industrial;
+214;Helios Pharmaceuticals;
+215;Phillips Receivable Funding;
+216;Federalʹnaia Tamozhennaia Sluzhba Rossi;
+217;Pratama Abadi Industri;
+218;Longchuan Simona Footwear;
+219;Jiangsu Alpha Pharmaceutical;
+220;Cervejarias Kaiser Brasil;
+221;Republic Airlines;
+222;Deepak Fertilisers & Petrochemicals;
+223;Win Mega Universal;
+224;Farplas Otomotiv;
+225;Shenzhou International;
+226;Jalaram Pharmacy;
+227;Active Life Pharma Agency;
+228;Steril-Gene Life Sciences;
+229;Group Pharmaceuticals;
+230;Vestel Ti̇caret;
+231;Gst Receiving Plant;
+232;Swiss Garnier Life Sciences;
+233;IMC Companies;
+234;Airlines Clearing House;
+235;Mega International Trading;
+236;Marvel Garment;
+237;Eagle Nice Development;
+238;Macao Commercial Offshore;
+239;Coskunoz Metal Form Makina Endustri;
+240;Nursan Kablo Donanimlari;
+241;Ingenus Pharmaceuticals;
+242;Tgv Sraac;
+243;Shagun Marketing Services;
+244;Dallas Fort Worth Company;
+245;Saudi Aramco;
+246;Vital Therapeutics And Formulations;
+247;Martur Sünger Ve Koltuk Tesisleti;
+248;Mas Amity;
+249;Grand Max;
+250;Sbm Offshore;
+251;International Aero Engines;
+252;RTX Corporation;
+253;Huihai Group Limited;
+254;Nabros Pharma;
+255;Creative Flavors;
+256;Hella Infra Market;
+257;Hi-Tech Apparel;
+258;Sociedad Cuauhtemoc Y Famosa;
+259;Chemic Life Sciences;
+260;Magni-Tech Industries;
+261;Enterprise Products Partners;
+262;Pralia;
+263;Ucb India;
+264;Zollamt Marburg;
+265;Shriji Polymers;
+266;Dade County Aviation Department;
+267;Liberty Energy;
+268;Fuji - Blommer;
+269;Lianhetech;
+270;Pure & Cure Healthcare;
+271;Beycelik Gestamp;
+272;K-I Chemical;
+273;Chemspec Chemicals;
+274;Halewood Laboratories;
+275;Coficab;
+276;Jiangsu Baozong & Baoda Pharmachem;
+277;Ever Radiant Worldwide;
+278;Saipem Spa;
+279;Accelor International;
+280;Sabrina Fashion Industrial;
+281;Noble Bd;
+282;Adis Dimension Footwear;
+283;Tag Industries;
+284;Baotong Yijie Intelligent Technology;
+285;Hensel Phelps;
+286;Aeropuertos y Servicios Auxiliares;
+287;Fisia Comercio de Produtos Esportivos;
+288;Unclassified;
+289;Fountain Agua Mineral;
+290;Oriks;
+291;Promotora Industrial Azucarera;
+292;Cristalpet Sul Industria Comercio;
+293;TRHC TPA;
+294;Cetex Petrochemicals;
+295;Acme Generics;
+296;Archeesh Health Care;
+297;Tesorería de la Federación;
+298;Protech Engineering Industries;
+299;R A Pharmaceuticals;
+300;Svak Pack Services;
+301;Heathrow Airport;
+302;Oneiro Lifecare;
+303;Doktas Dokumculuk;
+304;Mas Alsafi Apparel Manufacturing;
+305;Chandak Laboratories;
+306;Medical House Products;
+307;Ototrim Panel;
+308;European Commision;
+309;Mro Commercial;
+310;Torchgarden;
+311;Hangzhou Proserre Chemical;
+312;Mesa Air Group;
+313;KLN Enterprises;
+314;Hunan Haili Chemical Industry;
+315;Sonal Plasrub Industries;
+316;Leng-d'Or;
+317;Pine Tree For Textile Manufacturing;
+318;Somaiya Organics;
+319;Stena Carron Drilling;
+320;Kinetic Advertising Shanghai;
+321;OMD Worldwide;
+322;Airnov India;
+323;O-I Netherlands;
+324;Niagara Bottling;
+325;China Jiangsu International Economi;
+326;Tai Wah Garments Industry;
+327;Guyana Deep Water Ii Uk;
+328;Liansyn Pahrma;
+329;Laguardia Gateway Partners;
+330;Sol Caribbean;
+331;Tradechem International;
+332;Sv Plastochem;
+333;Immigration And Naturalization;
+334;Abhilasha Pharma;
+335;Tagros Chemicals India;
+336;Prospect Airport Services;
+337;Island Energy Investor Holdings;
+338;Cerovene;
+339;Odelo Otomotiv Aydinlatma;
+340;Marubeni-Itochu Steel;
+341;Infusester Dairy;
+342;Zenji Research Laboratories;
+343;Canopus International;
+344;Maxion;
+345;Copersucar;
+346;Daiichi Elektronik;
+347;Propetro Services;
+348;Tung Mung Textile Company;
+349;Assan Hanil Otomotiv;
+350;Resirene;
+351;Relypsa;
+352;Shanghai No 4 Reagent Chemical Co;
+353;Dfe Pharma India;
+354;Rainbow-Cargotec Industries;
+355;Dnp Imagingcomm America;
+356;G Boats;
+357;Grain Craft;
+358;Amagasaki Pipe
+
+ Czech;
+359;Pilgrim Food;
+360;Kamala Lifescinces;
+361;Pgt Khelske;
+362;Milteks Tekstil;
+363;New Holland Apparel;
+364;Retal Group;
+365;Dolgen;
+366;Şi̇şecam Otomoti̇v;
+367;Reggefiber Operator B.V.;
+368;Zeon Lifesciences;
+369;Vijayasri Chemicals;
+370;Transcanada Keystone Pipeline Partnership;
+371;Perrigo & Perrigo;
+372;Guyana Deep Water Uk;
+373;Jupiter Clinical Services;
+374;Meghmani Organics;
+375;The Pharm Us;
+376;Yop Factory;
+377;Kanaan;
+378;Besix Watpac;
+379;Jiangsu Rainbow Industr Equipment;
+380;Yesim Satis Magazalari Tekstil;
+381;Yildiz Kalip;
+382;Vulkor;
+383;Angst+Pfister Group;
+384;Pharmastar;
+385;Yuen Industrial;
+386;Vaasavaa Pharmaceuticals;
+387;Maharashtra Organo Metallic Catalysts;
+388;Chunghwa Chemical Synthesis & Biotech;
+389;Vitol Aviation Company;
+390;Standard Profil Otomotiv;
+391;Bain Capital Private Equity;
+392;Tfb Manufacturing;
+393;Muratbey Gumruk Mudurlugu;
+394;Whiting Turner Contracting Company;
+395;Naxpar Pharma;
+396;Verndale Products;
+397;Nantong Provichem Biotech;
+398;Distribution Office;
+399;Us Direct Ecommerce;
+400;Dogana Di Concorrezzo;

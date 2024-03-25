@@ -2,9 +2,8 @@
 using CsvHelper;
 using System.Globalization;
 using CsvHelper.Configuration;
-using news_apis;
 
-namespace news_api.Controllers;
+namespace news_apis.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
