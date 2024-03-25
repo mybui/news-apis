@@ -32,4 +32,3 @@ namespace news_apis
         }
     }
 }
-

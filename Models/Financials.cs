@@ -17,21 +17,23 @@ public record Company
 
 public record Stock
 {
-    public double Open { get; init; }
-    public double High { get; init; }
-    public double Low { get; init; }
-    public double Close { get; init; }
+    public decimal Open { get; set; }
+    public decimal High { get; set; }
+    public decimal Low { get; set; }
+    public decimal Close { get; set; }
+    public string? Currency { get; set; }
 }
 
 public record Financials
 {
     public DateTime Date { get; init; }
     public string? Cik { get; init; }
-    public string? ReportedCurrency { get; init; }
-    public long Revenue { get; init; }
-    public long TotalAssets { get; init; }
-    public long Cash { get; init; }
-    public long CashAndEquivalent { get; init; }
-    public long Inventory { get; init; }
-    public long AccountsPayable { get; init; }
+    public string? Currency { get; set; }
+    public long Revenue { get; set; }
+    public long TotalAssets { get; set; }
+    public long Cash { get; set; }
+    public long CashAndEquivalent { get; set; }
+    public long Inventory { get; set; }
+    public long AccountsPayable { get; set; }
+
 }

@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using news_apis;
-namespace news_api.Controllers;
+namespace news_apis.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -18,11 +17,11 @@ public class FinanceController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> Get(string supplierName)
+    public async Task<IActionResult> Get(string supplierName, string currency = "USD")
     {
         try
         {
-            FinanceInfo financials = await _financeService.CallAllApis(supplierName);
+            FinanceInfo financials = await _financeService.CallAllApis(supplierName, currency);
             return Ok(financials);
         }
         catch (Exception ex)
